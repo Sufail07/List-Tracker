@@ -24,7 +24,7 @@ img {
 }
 input {
     display: block;
-    width: 320px;
+    width: 21vw;
     padding: 10px;
     border-radius: 8px;
     border: none;
@@ -38,7 +38,7 @@ input {
 
 button {
     display: block;
-    width: 320px;
+    width: 21vw;
     padding: 10px;
     border-radius: 8px;
     border: none;
