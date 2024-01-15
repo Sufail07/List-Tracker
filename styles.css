@@ -11,8 +11,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 25vh;
-    width: 60vw;
+    margin-top: 18vh;
+    width: 40vw;
 }
 
 .input-group {
@@ -28,6 +28,7 @@ input {
     padding: 10px;
     border-radius: 8px;
     border: none;
+    margin-top: 10vh;
     background-color: #EBD9B4;
     font-size: large;
     font-family: 'Poppins', sans-serif;
@@ -54,6 +55,10 @@ button:hover {
 }
 input:focus {
     border: 1px solid #9DBC98;
+}
+
+.items {
+    margin-top: 10vh;
 }
 
 
