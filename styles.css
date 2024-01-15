@@ -25,6 +25,7 @@ img {
 input {
     display: block;
     width: 21vw;
+    min-width: 150px;
     padding: 10px;
     border-radius: 8px;
     border: none;
@@ -39,6 +40,7 @@ input {
 button {
     display: block;
     width: 21vw;
+    min-width: 150px;
     padding: 10px;
     border-radius: 8px;
     border: none;
